@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "rn-cognito-app",
+    "slug": "rn-cognito-app",
+    "scheme": "rncognito",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "platforms": ["ios", "android", "web"],
+    "extra": {}
+  }
+}
+

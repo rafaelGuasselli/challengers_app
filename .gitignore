@@ -1,0 +1,18 @@
+# General
+.DS_Store
+*.log
+node_modules/
+
+# SAM build artifacts
+.aws-sam/
+
+# Java / Maven
+backend/hello/target/
+
+# Expo / React Native
+mobile/.expo/
+mobile/.expo-shared/
+mobile/android/
+mobile/ios/
+mobile/web-build/
+
