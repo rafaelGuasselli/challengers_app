@@ -46,7 +46,6 @@ Resources:
         AllowHeaders: ['*']
         AllowMethods: ['GET', 'POST', 'OPTIONS']
       Auth:
-        DefaultAuthorizer: NONE
         Authorizers:
           CognitoAuthorizer:
             IdentitySource: "$request.header.Authorization"
